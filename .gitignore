@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environment
+venv/
+freya_env/
+.env/
+
+# Local databases
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Uploaded recordings
+data/uploads/*
+
+# Temporary files
+*.log
+
+# IDE
+.vscode/
+.idea/

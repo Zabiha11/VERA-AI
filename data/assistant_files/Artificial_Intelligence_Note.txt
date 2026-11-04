@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, learn, and adapt. Key concepts include:
+- Machine Learning: algorithms that improve through experience.
+- Neural Networks: layered structures that mimic brain connections.
+- Natural Language Processing: enabling computers to understand and generate human language.
+- Computer Vision: interpreting visual information.
+- Applications: virtual assistants, recommendation systems, autonomous vehicles, healthcare diagnostics, and more.
+
+Ethical considerations involve bias, privacy, job displacement, and ensuring transparency and accountability in AI systems.

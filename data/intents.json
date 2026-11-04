@@ -1,0 +1,104 @@
+{
+  "greeting": [
+    "hello",
+    "hi VERA",
+    "good morning",
+    "hey assistant",
+    "hello there",
+    "are you there",
+    "hi there",
+    "good afternoon VERA",
+    "good evening",
+    "hey VERA",
+    "can you hear me",
+    "are you listening",
+    "hello are you available",
+    "start listening",
+    "I want to talk to you",
+    "hi there assistant",
+    "good morning assistant",
+    "hey are you there",
+    "let us get started",
+    "hello can you help me"
+    ],
+  "save_note": [
+    "save a note",
+    "save a note that I need to study Python",
+    "remember that I have an assignment",
+    "make a note about machine learning",
+    "write this down for me",
+    "store a note for later"
+  ],
+  "list_notes": [
+    "show my notes",
+    "list all my notes",
+    "what notes have I saved",
+    "read my saved notes",
+    "show me my reminders and notes",
+    "retrieve my notes"
+  ],
+  "set_reminder": [
+    "set a reminder",
+    "remind me to study at seven",
+    "create a reminder for tomorrow",
+    "remind me to practise DSA",
+    "schedule a reminder for my meeting",
+    "I need a reminder to finish my project"
+  ],
+  "list_reminders": [
+    "show my reminders",
+    "what reminders do I have",
+    "list my upcoming reminders",
+    "check my reminders",
+    "show all scheduled reminders",
+    "what should I remember today"
+  ],
+  "get_time": [
+    "what time is it",
+    "tell me the current time",
+    "show the time",
+    "what is the time right now",
+    "can you check the time",
+    "tell me the time please"
+  ],
+  "get_date": [
+    "what is today's date",
+    "tell me the date",
+    "what day is it today",
+    "show today's date",
+    "what is the current date",
+    "which date is it"
+  ],
+  "general_question": [
+    "explain machine learning",
+    "what is overfitting",
+    "help me understand neural networks",
+    "explain Python functions",
+    "what is unsupervised learning",
+    "tell me about artificial intelligence"
+  ],
+  "goodbye": [
+    "goodbye",
+    "bye VERA",
+    "see you later",
+    "stop talking",
+    "that's all for now",
+    "thank you goodbye"
+  ],
+
+  "intent": "delete_note",
+  "examples": [
+      "delete note number one",
+      "delete my first note",
+      "remove note number two",
+      "delete the second note",
+      "remove my third note",
+      "I want to delete a note",
+      "erase note number four",
+      "delete a saved note",
+      "remove a note from my notes",
+      "Vera delete my note"
+    ]
+
+}
+
